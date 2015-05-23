@@ -18,6 +18,9 @@ namespace Print
         public void AddedOnMachine49()
         {
         }
+        public void AddedOnMachineDingDing()
+        {
+        }
 
 
     }
