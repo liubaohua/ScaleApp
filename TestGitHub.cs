@@ -7,5 +7,8 @@ namespace Print
 {
     class TestGitHub
     {
+        public void Test()
+        { 
+        }
     }
 }
