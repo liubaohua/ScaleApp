@@ -10,5 +10,10 @@ namespace Print
         public void Test()
         { 
         }
+
+        public void SecondMethod()
+        { 
+        }
+
     }
 }
