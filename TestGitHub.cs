@@ -12,8 +12,13 @@ namespace Print
         }
 
         public void SecondMethod()
-        { 
+        {
         }
+
+        public void AddedOnMachine49()
+        {
+        }
+
 
     }
 }
