@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print", "Print.csproj", "{89B45D97-CEEE-4DD6-9F80-AED3E93888B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICApp", "ICApp.csproj", "{89B45D97-CEEE-4DD6-9F80-AED3E93888B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
